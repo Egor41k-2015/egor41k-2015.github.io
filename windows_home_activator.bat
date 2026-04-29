@@ -1,3 +1,8 @@
-slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+@ECHO OFF
+color 2
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 slmgr /skms kms.digiboy.ir
 slmgr /ato
+echo Windows has been successfully activated!
+pause
+exit
