@@ -1,0 +1,8 @@
+@ECHO OFF
+color 2
+slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
+slmgr /skms kms.digiboy.ir
+slmgr /ato
+echo Windows has been successfully activated!
+pause
+exit
